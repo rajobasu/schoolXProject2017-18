@@ -5,7 +5,7 @@ import java.io.IOException;
 public class Main {
 	/**
 	 * The starting point of execution.
-	 * Main Program
+	 * 
 	 * @param args
 	 * @throws IOException
 	 */
